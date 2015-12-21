@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kwetterclient/KwetterClient.iml" filepath="$PROJECT_DIR$/kwetterclient/KwetterClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KwetterLogica/KwetterLogica.iml" filepath="$PROJECT_DIR$/KwetterLogica/KwetterLogica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KwetterNet.iml" filepath="$PROJECT_DIR$/KwetterNet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kwetterserver/KwetterServer.iml" filepath="$PROJECT_DIR$/kwetterserver/KwetterServer.iml" />
+    </modules>
+  </component>
+</project>

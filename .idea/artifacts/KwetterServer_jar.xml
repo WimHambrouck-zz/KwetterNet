@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="KwetterServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KwetterServer_jar</output-path>
+    <root id="archive" name="KwetterServer.jar">
+      <element id="module-output" name="KwetterServer" />
+      <element id="module-output" name="KwetterLogica" />
+    </root>
+  </artifact>
+</component>
